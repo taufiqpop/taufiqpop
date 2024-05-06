@@ -4,10 +4,8 @@
   <i>
     See My Official Website
   </i>
-
-<a align="center" href="https://taufiqpop99.github.io">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>
-<a align="center" href="https://saweria.co/TaufiqPop">![Saweria](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)</a>
-
+<a href="https://taufiqpop99.github.io">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>
+<a href="https://saweria.co/TaufiqPop">![Saweria](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)</a>
 </p>
 
 ----
