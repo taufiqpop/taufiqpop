@@ -1,4 +1,4 @@
-<img src="./profile.png">
+<img src="./profile.gif">
 
 <p align="center">
   <i>See My Official Website</i>
