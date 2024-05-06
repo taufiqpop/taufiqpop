@@ -11,9 +11,9 @@
 
 ---
 
-<p align="center">
-  <h1><b><i>"I'm Gamer and I'm Programmer, So I'm ProGamer"</i></b></h1>
-</p>
+<h1 align="center">
+  <b><i>"I'm Gamer and I'm Programmer, So I'm ProGamer"</i></b>
+</h1>
 
 #### 🎮 Gaming & Chill :
 <a href="https://steamcommunity.com/groups/perfectofplayers">![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)</a>
