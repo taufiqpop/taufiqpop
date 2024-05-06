@@ -10,9 +10,8 @@
 
 ### Hello Everyone 👋😁
 
-I'm **Taufiq Pop**<br>
-I Live in Surakarta, Indonesia 😴<br>
-_"I'm Gamer & I'm Programmer, So I'm ProGamer"_
+I'm **Taufiq Pop**, Live in Surakarta, Indonesia 😴<br>
+_**"I'm Gamer & I'm Programmer, So I'm ProGamer"**_
 
 #### :computer: Technology That I'm Currently Use & Learning :
 ![JavaScript](https://img.shields.io/badge/javascript-%231F1F1F.svg?style=for-the-badge&logo=javascript)
