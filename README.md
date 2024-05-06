@@ -9,12 +9,10 @@
   <a href="https://saweria.co/TaufiqPop"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
 </p>
 
-----
-
-## Hello Everyone 👋😁
+---
 
 <p align="center">
-  <b><i>"I'm Gamer and I'm Programmer, So I'm ProGamer"</i></b>
+  <h1><b><i>"I'm Gamer and I'm Programmer, So I'm ProGamer"</i></b></h1>
 </p>
 
 #### 🎮 Gaming & Chill :
