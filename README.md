@@ -3,10 +3,10 @@
 <p align="center">
   <i>
     See My Official Website
-    <br>
-    <a href="https://taufiqpop99.github.io" target="_blank">Click Here</a>
   </i>
 </p>
+    <a href="https://taufiqpop99.github.io">Click Here</a>
+    <br>
 
 ---
 
@@ -17,8 +17,8 @@ Live in Surakarta, Indonesia 😴<br>
 _**"I'm Gamer and I'm Programmer, So I'm ProGamer"**_🎮
 
 #### :computer: Tech That I Use & Learn :
-![HTML](https://img.shields.io/badge/html-%231F1F1F.svg?style=for-the-badge&logo=html)
-![CSS](https://img.shields.io/badge/css-%231F1F1F.svg?style=for-the-badge&logo=css)
+![PHP](https://img.shields.io/badge/php-%231F1F1F.svg?style=for-the-badge&logo=php)
+![SCSS](https://img.shields.io/badge/sass-%231F1F1F.svg?style=for-the-badge&logo=sass)
 ![JavaScript](https://img.shields.io/badge/javascript-%231F1F1F.svg?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-%230175C2.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
