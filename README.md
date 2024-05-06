@@ -13,7 +13,6 @@
 
 ## Hello Everyone 👋😁
 
-I'm **Taufiq Pop**
 <p align="center">
   <b><i>"I'm Gamer and I'm Programmer, So I'm ProGamer"</i></b>
 </p>
