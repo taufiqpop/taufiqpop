@@ -5,11 +5,12 @@
     See My Official Website
   </i>
 
-<a href="https://taufiqpop99.github.io">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>
-<a href="https://saweria.co/TaufiqPop">![Saweria](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)</a>
+<a align="center" href="https://taufiqpop99.github.io">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>
+<a align="center" href="https://saweria.co/TaufiqPop">![Saweria](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)</a>
 
 </p>
----
+
+----
 
 ## Hello Everyone 👋😁
 
@@ -41,7 +42,7 @@ _**"I'm Gamer and I'm Programmer, So I'm ProGamer"**_🎮
 ![Windows](https://img.shields.io/badge/Windows-%230175C2.svg?style=for-the-badge&logo=windows)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230175C2.svg?style=for-the-badge&logo=visual-studio-code)
-![GIT](https://img.shields.io/badge/GIT-%230175C2.svg?style=for-the-badge&color=white&logo=git)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230175C2.svg?style=for-the-badge&logo=docker&logoColor=white)
 
