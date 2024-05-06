@@ -4,6 +4,7 @@
   <i>
     See My Official Website
   </i>
+  
 <a href="https://taufiqpop99.github.io">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>
 <a href="https://saweria.co/TaufiqPop">![Saweria](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)</a>
 </p>
@@ -15,6 +16,17 @@
 I'm **Taufiq Pop**
 Live in Surakarta, Indonesia 😴<br>
 _**"I'm Gamer and I'm Programmer, So I'm ProGamer"**_🎮
+
+
+#### 🎮 Gaming & Chill :
+<a href="https://open.spotify.com/show/66lFgL2DzwXQQORXKkvsf4">![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)</a>
+<a href="https://steamcommunity.com/groups/perfectofplayers">![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)</a>
+<a href="https://store.epicgames.com/en-US/u/5c2e238f389748d79c7a9f8012afdf45">![Epic](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)</a>
+<a href="https://playvalorant.com">![Riot](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)</a>
+<a href="https://www.youtube.com/@Taufiq_Pop?sub_confirmation=1">![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
+<a href="https://tiktok.com/@taufiqpop99">![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)</a>
+<a href="https://www.twitch.tv/taufiqpop99">![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)</a>
+
 
 #### 💻 Tech That I Use & Learn :
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,22 +48,13 @@ _**"I'm Gamer and I'm Programmer, So I'm ProGamer"**_🎮
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-#### 🛠 Tools That I Use :
+#### 🛠️ Tools That I Use :
 ![Windows](https://img.shields.io/badge/Windows-%230175C2.svg?style=for-the-badge&logo=windows)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230175C2.svg?style=for-the-badge&logo=visual-studio-code)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230175C2.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-#### 🎮 Gaming & Chill :
-<a href="https://open.spotify.com/show/66lFgL2DzwXQQORXKkvsf4">![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)</a>
-<a href="https://steamcommunity.com/groups/perfectofplayers">![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)</a>
-<a href="https://store.epicgames.com/en-US/u/5c2e238f389748d79c7a9f8012afdf45">![Epic](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)</a>
-<a href="https://playvalorant.com">![Riot](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)</a>
-<a href="https://www.youtube.com/@Taufiq_Pop?sub_confirmation=1">![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
-<a href="https://tiktok.com/@taufiqpop99">![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)</a>
-<a href="https://www.twitch.tv/taufiqpop99">![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)</a>
 
 #### 🤩 Let's Be Friends :
 <a href="https://discord.gg/CKXCwBZr72">![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</a>
