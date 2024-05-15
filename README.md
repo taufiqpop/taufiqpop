@@ -19,7 +19,7 @@
 <a href="https://linktr.ee/TaufiqPop">![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)</a>
 
 #### 🎮 Gaming & Chill :
-<a href="https://www.livechart.me/users/Taufiq_Pop/library?layout=regular&page=1&sort=anime_start_date&statuses%5B%5D=completed&statuses%5B%5D=watching&titles=romaji">![Anime](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)</a>
+<a href="https://www.livechart.me/users/TaufiqPop/library?layout=regular&page=1&sort=anime_start_date&statuses%5B%5D=completed&statuses%5B%5D=watching&titles=english&username=TaufiqPop">![Anime](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)</a>
 <a href="https://steamcommunity.com/groups/perfectofplayers">![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)</a>
 <a href="https://open.spotify.com/show/66lFgL2DzwXQQORXKkvsf4">![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)</a>
 <a href="https://tiktok.com/@taufiqpop99">![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)</a>
