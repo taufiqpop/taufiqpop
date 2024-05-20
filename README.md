@@ -20,7 +20,7 @@
 
 #### 🎮 Gaming & Chill :
 <a href="https://www.livechart.me/users/TaufiqPop/library?layout=regular&page=1&sort=anime_start_date&statuses%5B%5D=completed&statuses%5B%5D=watching&titles=english&username=TaufiqPop">![Anime](https://img.shields.io/badge/My_anime_list-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)</a>
-<a href="https://tiermaker.com/list/anime/anime-waifu-17158822/3998929">![Waifu](https://img.shields.io/badge/My_waifu_list-FF1493?style=for-the-badge&logo=anime&logoColor=white)</a>
+<a href="https://tiermaker.com/list/anime/anime-waifu-17158822/3998929">![Waifu](https://img.shields.io/badge/My_waifu_list-FF1493?style=for-the-badge&logo=ko-fi&logoColor=white)</a>
 <a href="https://steamcommunity.com/groups/perfectofplayers">![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)</a>
 <a href="https://open.spotify.com/show/66lFgL2DzwXQQORXKkvsf4">![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)</a>
 <a href="https://tiktok.com/@taufiqpop99">![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)</a>
@@ -28,13 +28,13 @@
 <a href="https://www.twitch.tv/taufiqpop99">![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)</a>
 
 #### 💻 Technologies That I Use & Learn :
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%230175C2.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
