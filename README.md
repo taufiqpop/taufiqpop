@@ -1,14 +1,16 @@
 <!-- README -->
-<img src="./profile.gif">
+<div align="center">
+  <img src="./profile.gif">
 
-<p align="center">
-  <a href="https://taufiqpop.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="https://saweria.co/TaufiqPop"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
-</p>
+  <p align="center">
+    <a href="https://taufiqpop.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+    <a href="https://saweria.co/TaufiqPop"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
+  </p>
 
-<h1 align="center">
-  <b><i>"I'm Gamer and I'm Programmer, So I'm ProGamer"</i></b>
-</h1>
+  <h1 align="center">
+    <b><i>"I'm Gamer and I'm Programmer, So I'm ProGamer"</i></b>
+  </h1>
+</div>
 
 #### 🤩 Let's Be Friends :
 <a href="https://discord.gg/CKXCwBZr72">![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</a>
