@@ -8,7 +8,7 @@
   </p>
 
   <h1 align="center">
-    <b><i>"I'm Gamer and I'm Programmer, So I'm ProGamer"</i></b>
+    <b><i>"I'm Programmer and I'm Gamer, So I'm ProGamer"</i></b>
   </h1>
 </div>
 
