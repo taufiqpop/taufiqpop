@@ -23,7 +23,7 @@
 
 #### 🎮 Gaming & Chill :
 <a href="https://www.livechart.me/users/TaufiqPop/library?layout=regular&page=1&sort=anime_start_date&statuses%5B%5D=completed&statuses%5B%5D=watching&titles=english&username=TaufiqPop">![Anime](https://img.shields.io/badge/My_anime_list-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)</a>
-<a href="https://tiermaker.com/list/anime/anime-waifu-17158822/3998929">![Waifu](https://img.shields.io/badge/My_waifu_list-FF1493?style=for-the-badge&logo=ko-fi&logoColor=white)</a>
+<a href="https://taufiqpop.github.io/my-waifu-list">![Waifu](https://img.shields.io/badge/My_waifu_list-FF1493?style=for-the-badge&logo=ko-fi&logoColor=white)</a>
 <a href="https://steamcommunity.com/groups/perfectofplayers">![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)</a>
 <a href="https://open.spotify.com/show/66lFgL2DzwXQQORXKkvsf4">![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)</a>
 <a href="https://tiktok.com/@taufiqpop99">![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)</a>
