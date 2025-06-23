@@ -13,12 +13,12 @@
 </div>
 
 #### 🤩 Let's Be Friends :
+<a href="https://linktr.ee/TaufiqPop">![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)</a>
 <a href="https://discord.gg/CKXCwBZr72">![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</a>
+<a href="https://www.facebook.com/taufiqpop99">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 <a href="https://instagram.com/taufiqpop99">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://github.com/taufiqpop">![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="https://gitlab.com/taufiqpop">![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)</a>
-<a href="https://www.facebook.com/taufiqpop99">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
-<a href="https://linktr.ee/TaufiqPop">![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)</a>
 
 #### 🎮 Gaming & Chill :
 <a href="https://www.livechart.me/users/TaufiqPop/library?layout=regular&page=1&sort=anime_start_date&statuses%5B%5D=completed&statuses%5B%5D=watching&titles=english&username=TaufiqPop">![Anime](https://img.shields.io/badge/My_anime_list-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)</a>
@@ -49,14 +49,22 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### 🛠️ Tools That I Use :
+![PopOS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230175C2.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-![TOR](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230175C2.svg?style=for-the-badge&logo=docker&logoColor=white)
+![TOR](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+
+#### 📚 Other Skills :
+![PremierePro](https://aleen42.github.io/badges/src/premiere.svg)
+![AfterEffect](https://aleen42.github.io/badges/src/after_effects.svg)
+![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
+![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
