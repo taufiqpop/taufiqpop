@@ -24,7 +24,7 @@
 <a href="https://www.livechart.me/users/TaufiqPop/library?layout=regular&page=1&sort=anime_start_date&statuses%5B%5D=completed&statuses%5B%5D=watching&titles=english&username=TaufiqPop">![Anime](https://img.shields.io/badge/My_anime_list-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)</a>
 <a href="https://pop-waifu-list.vercel.app">![Waifu](https://img.shields.io/badge/My_waifu_list-FF1493?style=for-the-badge&logo=ko-fi&logoColor=white)</a>
 <a href="https://open.spotify.com/show/66lFgL2DzwXQQORXKkvsf4">![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)</a>
-<a href="https://tiktok.com/@taufiqpop99">![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)</a>
+<a href="https://tiktok.com/@taufiqpop">![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)</a>
 <a href="https://www.youtube.com/@TaufiqPop?sub_confirmation=1">![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
 <a href="https://www.twitch.tv/taufiqpop99">![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)</a>
 <a href="https://steamcommunity.com/groups/perfectofplayers">![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)</a>
@@ -75,7 +75,7 @@
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 
 #### 🖥️ My Devices :
-![Nvidia](https://img.shields.io/badge/NVIDIA-RTX4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Nvidia](https://img.shields.io/badge/NVIDIA-RTX4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![AMD](https://img.shields.io/badge/AMD-Ryzen_7_5800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 #### 📚 Other Skills :
