@@ -1,25 +1,16 @@
-<!-- HEADER -->
 <div align="center">
   <img src="./profile.gif" width="100%">
 
-  <h1>
-    Hi 👋 I'm Taufiq Pop
-  </h1>
-
-  <h3>
-    Software Developer • Gamer • Anime Lovers
-  </h3>
+  <h1>"I'm Programmer and I'm Gamer, So I'm ProGamer"</h1>
 
   <p>
     <a href="https://taufiqpop.github.io">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
     </a>
     <a href="https://saweria.co/TaufiqPop">
-      <img src="https://img.shields.io/badge/Support_Me-30363D?style=for-the-badge&logo=githubsponsors&logoColor=white">
+      <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white">
     </a>
   </p>
-
-  <b><i>"I'm Programmer and I'm Gamer, So I'm ProGamer"</i></b>
 </div>
 
 ---
@@ -50,11 +41,11 @@
 
 <p>
   <a href="https://www.livechart.me/users/TaufiqPop/library">
-    <img src="https://img.shields.io/badge/Anime_List-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white">
+    <img src="https://img.shields.io/badge/My_Anime_List-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white">
   </a>
 
   <a href="https://pop-waifu-list.vercel.app">
-    <img src="https://img.shields.io/badge/Waifu_List-FF1493?style=for-the-badge">
+    <img src="https://img.shields.io/badge/My_Waifu_List-FF1493?style=for-the-badge&logo=ko-fi&logoColor=white">
   </a>
 
   <a href="https://open.spotify.com/show/66lFgL2DzwXQQORXKkvsf4">
@@ -78,17 +69,17 @@
 
 ---
 
-## ⚙️ Backend
+## ⚙️ Frameworks
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 ---
 
-## 🎨 Frontend
+## 🎨 Libraries
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ---
@@ -103,16 +94,11 @@
 
 ## 🛠️ Tools & Environment
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
-## 🖥️ Hardware
+## 🛠️ OS
 
-![RTX4050](https://img.shields.io/badge/NVIDIA-RTX4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Ryzen5800H](https://img.shields.io/badge/AMD-Ryzen_7_5800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
