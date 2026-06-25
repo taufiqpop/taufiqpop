@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./profile.gif" width="100%">
 
-  <h3><i>I'm Programmer and I'm Gamer, So I'm ProGamer</i></h3>
+  <h1><i>I'm Programmer and I'm Gamer, So I'm ProGamer</i></h1>
 
   <p>
     <a href="https://taufiqpop.github.io">
