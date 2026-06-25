@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./profile.gif" width="100%">
 
-  <h1>"I'm Programmer and I'm Gamer, So I'm ProGamer"</h1>
+  <h3><i>I'm Programmer and I'm Gamer, So I'm ProGamer</i></h3>
 
   <p>
     <a href="https://taufiqpop.github.io">
@@ -26,16 +26,12 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 
-  <a href="https://open.spotify.com/show/66lFgL2DzwXQQORXKkvsf4">
-    <img src="https://img.shields.io/badge/Podcast-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
-  </a>
-
   <a href="https://www.youtube.com/@TaufiqPop?sub_confirmation=1">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 
-  <a href="https://steamcommunity.com/groups/perfectofplayers">
-    <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white">
+  <a href="https://open.spotify.com/show/66lFgL2DzwXQQORXKkvsf4">
+    <img src="https://img.shields.io/badge/Podcast-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 
   <a href="https://www.livechart.me/users/TaufiqPop/library">
@@ -44,6 +40,10 @@
 
   <a href="https://pop-waifu-list.vercel.app">
     <img src="https://img.shields.io/badge/Waifu_List-FF1493?style=for-the-badge&logo=ko-fi&logoColor=white">
+  </a>
+
+  <a href="https://steamcommunity.com/groups/perfectofplayers">
+    <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white">
   </a>
 </p>
 
@@ -56,7 +56,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
@@ -91,22 +90,17 @@
 
 ## 🛠️ Tools & Environment
 
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Navicat](https://img.shields.io/badge/Navicat-2F93E0?style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ---
 
 ## 💿 OS
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
@@ -114,16 +108,5 @@
 ## 🌍 Browser
 
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torbrowser&logoColor=white)
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white)
-
----
-
-## 🎨 Other Skills
-
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe Audition](https://img.shields.io/badge/Adobe_Audition-9999FF?style=for-the-badge&logo=adobeaudition&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![CorelDRAW](https://img.shields.io/badge/CorelDRAW-46A247?style=for-the-badge)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torbrowser&logoColor=white)
